@@ -4,7 +4,8 @@ html {
 
 body {
     background-image: url('/extras/images/background.jpg');
-
+    background-repeat:none;
+    background-size:cover;
 }
 
 .first-div {
