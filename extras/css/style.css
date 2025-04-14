@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url('/extras/images/background.jpg');
+
+}
+
+.first-div {
+    display: flex;
+    flex-direction: column;
+}
+
+.send-mglt {
+    margin-top: 10px;
+}
+
+th,
+td {
+    font-weight: 400;
+}
