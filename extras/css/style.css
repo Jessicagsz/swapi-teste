@@ -1,11 +1,9 @@
-html {
-    height: 100%;
-}
-
 body {
     background-image: url('/extras/images/background.jpg');
-    background-repeat:none;
-    background-size:cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow-x: hidden;
 }
 
 .first-div {
